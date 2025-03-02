@@ -1,1 +1,1 @@
-eval "$(oh-my-posh init bash --config ~/onedrive/documents/reids_code/themes/n3rd.omp.json)"
+eval "$(oh-my-posh init bash --config ~/n3rd.omp.json)"
