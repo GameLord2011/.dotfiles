@@ -1,6 +1,6 @@
 # ===== WINFETCH CONFIGURATION =====
 
-# $image = "https://gamelord2011.github.io/assets/icons/pwsh-preview.scale-200.png"
+ $image = "https://avatars.githubusercontent.com/u/119822417"
 # $noimage = $false
 
 # Display image using ASCII characters
